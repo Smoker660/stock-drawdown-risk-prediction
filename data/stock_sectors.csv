@@ -1,0 +1,166 @@
+﻿symbol,sector
+AAPL,Technology
+MSFT,Technology
+NVDA,Technology
+GOOGL,Technology
+CRM,Technology
+ADBE,Technology
+INTC,Technology
+ORCL,Technology
+IBM,Technology
+AMD,Technology
+QCOM,Technology
+ADSK,Technology
+PANW,Technology
+SNPS,Technology
+CDNS,Technology
+ANET,Technology
+NOW,Technology
+FTNT,Technology
+WDAY,Technology
+TEAM,Technology
+NET,Technology
+DOCU,Technology
+ZM,Technology
+CRWD,Technology
+ZS,Technology
+OKTA,Technology
+TWLO,Technology
+JPM,Financial
+BAC,Financial
+GS,Financial
+V,Financial
+AXP,Financial
+COF,Financial
+MS,Financial
+SCHW,Financial
+TROW,Financial
+BK,Financial
+STT,Financial
+BLK,Financial
+KEY,Financial
+RF,Financial
+CFG,Financial
+FITB,Financial
+HBAN,Financial
+JNJ,Healthcare
+UNH,Healthcare
+PFE,Healthcare
+ABBV,Healthcare
+CI,Healthcare
+HUM,Healthcare
+BMY,Healthcare
+GILD,Healthcare
+REGN,Healthcare
+ILMN,Healthcare
+ZTS,Healthcare
+VRTX,Healthcare
+EXAS,Healthcare
+HSIC,Healthcare
+TECH,Healthcare
+AMZN,Consumer Cyclical
+HD,Consumer Cyclical
+MCD,Consumer Cyclical
+EBAY,Consumer Cyclical
+BBY,Consumer Cyclical
+F,Consumer Cyclical
+GM,Consumer Cyclical
+DG,Consumer Cyclical
+DLTR,Consumer Cyclical
+ROST,Consumer Cyclical
+TJX,Consumer Cyclical
+LULU,Consumer Cyclical
+MAR,Consumer Cyclical
+HLT,Consumer Cyclical
+KMX,Consumer Cyclical
+ULTA,Consumer Cyclical
+DHI,Consumer Cyclical
+LEN,Consumer Cyclical
+PG,Consumer Defensive
+KO,Consumer Defensive
+WMT,Consumer Defensive
+MDLZ,Consumer Defensive
+KMB,Consumer Defensive
+TGT,Consumer Defensive
+HSY,Consumer Defensive
+GIS,Consumer Defensive
+CL,Consumer Defensive
+EL,Consumer Defensive
+CLX,Consumer Defensive
+ADM,Consumer Defensive
+STZ,Consumer Defensive
+XOM,Energy
+CVX,Energy
+COP,Energy
+HAL,Energy
+SLB,Energy
+OXY,Energy
+EOG,Energy
+VLO,Energy
+MPC,Energy
+APA,Energy
+DVN,Energy
+CAT,Industrial
+BA,Industrial
+GE,Industrial
+DAL,Industrial
+LUV,Industrial
+MMM,Industrial
+DE,Industrial
+EMR,Industrial
+ETN,Industrial
+ITW,Industrial
+ROK,Industrial
+PH,Industrial
+CMI,Industrial
+FDX,Industrial
+UPS,Industrial
+PWR,Industrial
+URI,Industrial
+JCI,Industrial
+META,Communication
+NFLX,Communication
+DIS,Communication
+T,Communication
+CMCSA,Communication
+CHTR,Communication
+EA,Communication
+TTWO,Communication
+WBD,Communication
+LYV,Communication
+OMC,Communication
+LIN,Materials
+NEM,Materials
+FCX,Materials
+DOW,Materials
+APD,Materials
+ECL,Materials
+SHW,Materials
+NUE,Materials
+DD,Materials
+PPG,Materials
+AA,Materials
+VMC,Materials
+MLM,Materials
+NEE,Utilities
+DUK,Utilities
+SO,Utilities
+AEP,Utilities
+EXC,Utilities
+SRE,Utilities
+ED,Utilities
+PPL,Utilities
+D,Utilities
+XEL,Utilities
+WEC,Utilities
+ES,Utilities
+SPG,Real Estate
+PLD,Real Estate
+O,Real Estate
+WELL,Real Estate
+AVB,Real Estate
+EQR,Real Estate
+DLR,Real Estate
+VTR,Real Estate
+PSA,Real Estate
+ARE,Real Estate
